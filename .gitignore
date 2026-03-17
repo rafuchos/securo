@@ -3,14 +3,12 @@
 .DS_Store
 .playwright-mcp/
 .claude
+CLAUDE.md
 .devcontainer/
 docs/plans/
 
-# PWN
-.ai/state.json
-
-# PWN batch runner metadata (auto-added)
-.ai/batch/
+# PWN / AI workspace
+.ai/
 logs/
 node_modules/
 .venv/
