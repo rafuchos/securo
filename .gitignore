@@ -5,3 +5,14 @@
 .claude
 .devcontainer/
 docs/plans/
+
+# PWN
+.ai/state.json
+
+# PWN batch runner metadata (auto-added)
+.ai/batch/
+logs/
+node_modules/
+.venv/
+venv/
+vendor/
